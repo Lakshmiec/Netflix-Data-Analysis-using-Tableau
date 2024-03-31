@@ -35,9 +35,15 @@ Netflix dataset
 - Increase in Content Over Time: The graph shows a general upward trend in the number of movies and TV shows added to Netflix over the years from 2011 to 2021. This suggests that Netflix has been consistently adding new content to its library.
 - More Movies than TV Shows: Movies have consistently held a dominant position in the entertainment industry, surpassing the production of TV shows year after year.
 - Drama dominates: Dramas appear in a significant number of the top categories, suggesting they're a popular choice for viewers.
-
 ## Query Answers:
-1. What is the distribution of movie ratings (e.g., G, PG, PG-13, R) in the Netflix dataset, and which rating category has the highest number of movies? [Figure 1.1]
-2. Have there been any significant changes in the content mix (movies vs. TV shows) over time? [Figure 1.2]
-3. Which genres are the most popular on Netflix? [Figure 1.3]
+
+### Query 1: Distribution of Movie Ratings
+The data in Figure 1.1 shows the distribution of movie ratings on Netflix. It shows that the rating category TV-MA has the highest number of movies.
+
+### Query 2: Changes in Content Mix Over Time
+Yes. Figure 1.2 shows an overall increase in content (movies and TV shows) from 2011 to 2021. However, it also indicates year-to-year fluctuations in the number of titles added for both categories. The movie Industry dominates the TV shows count in each year.
+
+### Query 3: Popular Genres on Netflix
+Figure 1.3 shows that the genre category ‘Dramas, International Movies’ is more popular among viewers.
+
 
